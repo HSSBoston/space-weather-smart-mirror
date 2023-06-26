@@ -2,13 +2,14 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/12JZDe1e7Wq1g3EZ_A8PtzRt4vMEqkEB3/view"><img src="images/demo-preview.jpg" width="500"></a>
-  <p>
+  
+  <p align="center">
   Click this image to view a demo video! 
-
+  </p>
 </p>
 
 
-Project Description:
+## Project Description:
 
 Space weather refers to the environmental effects of the Sun in outer space. It causes geomagnetic storms on Earth, and those storms affect various infrastructures such as power grids, communications and transportation. Although this is a planetary risk that impacts human life, the public awareness and understanding of space weather are limited.
 
