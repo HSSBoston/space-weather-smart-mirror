@@ -4,7 +4,7 @@
   <a href="https://drive.google.com/file/d/12JZDe1e7Wq1g3EZ_A8PtzRt4vMEqkEB3/view"><img src="images/demo-preview.jpg" width="500"></a>
 </p>
 <p align="center">
-  Click this image to view a <a ref="https://drive.google.com/file/d/12JZDe1e7Wq1g3EZ_A8PtzRt4vMEqkEB3/view">demo video</a>!
+  Click this image to view a <a href="https://drive.google.com/file/d/12JZDe1e7Wq1g3EZ_A8PtzRt4vMEqkEB3/view">2-minute demo video</a>!
 </p>
 
 I worked on this project in the [2023 3M Young Scientist Challenge](https://youngscientistlab.com/). My project focused on the impacts of space weather on Earth (geomagnetic storms), analyzed geomagnetic disturbance data with statistical and machine learning methods, and visualized data analysis results on a “smart” mirror with Raspberry Pi. It won the [State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023) in Massachusetts. 
