@@ -1,7 +1,7 @@
 # Quantitative Analysis of Space Weather and its Visualization
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/12JZDe1e7Wq1g3EZ_A8PtzRt4vMEqkEB3/view"><img src="images/demo-preview.jpg" width="500"></a>
+  <a href="https://drive.google.com/file/d/12JZDe1e7Wq1g3EZ_A8PtzRt4vMEqkEB3/view"><img src="images/demo-preview.jpg" width="750"></a>
 </p>
 <p align="center">
   Click this image to view a <a href="https://drive.google.com/file/d/12JZDe1e7Wq1g3EZ_A8PtzRt4vMEqkEB3/view">2-minute demo video</a>!
