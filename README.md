@@ -4,7 +4,7 @@
   <a href="https://drive.google.com/file/d/12JZDe1e7Wq1g3EZ_A8PtzRt4vMEqkEB3/view"><img src="images/demo-preview.jpg" width="500"></a>
   
   <p align="center">
-  Click this image to view a [demo video](<a href="https://drive.google.com/file/d/12JZDe1e7Wq1g3EZ_A8PtzRt4vMEqkEB3/view">)! 
+  Click this image to view a [demo video](https://drive.google.com/file/d/12JZDe1e7Wq1g3EZ_A8PtzRt4vMEqkEB3/view)! 
   </p>
 </p>
 
